@@ -46,7 +46,7 @@ export const palavrasContato = {
 //Uma graça que deu tempo de fazer, a ofensa é respondida com uma giria gringa
 export const palavrasFeias = {
     probablyWords:[
-        "porra", "fodase","cuzao","filho","puta","vadia","  vagabunda","cadela","piranha","desempregado"
+        "porra", "fodase", "cuzao", "filho", "puta", "desempregado", "clt", "inutil", 
     ],
     matched: 0,
 }
