@@ -34,7 +34,7 @@ export const palavrasMatricula = {
     matched: 0,
    
 }
-
+// Para passar o contato da escola
 export const palavrasContato = {
     probablyWords: [
         "contato", "horaria", "celular", "ligação", "numero", "telefone", "telefonema", "ligar", "quem","pessoa", "para", "qual", "onde", "de", "voces", "como", "posso", "entrar", "quem", "ou", "escola",
